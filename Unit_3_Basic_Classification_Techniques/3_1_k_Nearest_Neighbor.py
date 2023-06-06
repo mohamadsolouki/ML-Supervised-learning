@@ -1,7 +1,6 @@
 # IU - International University of Applied Science
 # Machine Learning - Supervised Learning
 # Course Code: DLBDSMLSL01
-
 # k-Nearest Neighbor
 
 # %% load packages
@@ -37,3 +36,5 @@ print(confusion_matrix(y_test, y_pred))
 # %% print accuracy
 accuracy_score(y_test, y_pred)
 # console output: 0.8671328671328671
+
+# %%
