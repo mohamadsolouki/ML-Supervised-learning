@@ -21,7 +21,7 @@ y = pd.get_dummies(y, drop_first=True)
 X_train, X_test, y_train, y_test = train_test_split(X, y)
 
 # %% specify and fit the kNN model
-knn = KNeighborsClassifier(n_neighbors=4, metric='manhattan')
+knn = KNeighborsClassifier(n_neighbors=10, metric='manhattan')
 knn.fit(X_train, y_train.values.ravel())
 
 # %% use the model to predict values
