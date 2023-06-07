@@ -30,3 +30,4 @@ print(regressor.intercept_, regressor.coef_)
 
 # %% use the model to predict values
 # y_pred = regressor.predict(X_newdata)
+# %%

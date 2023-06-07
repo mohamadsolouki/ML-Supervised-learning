@@ -1,6 +1,3 @@
-# IU - International University of Applied Science
-# Machine Learning - Supervised Learning
-# Course Code: DLBDSMLSL01
 # k-Nearest Neighbor
 
 # %% load packages
