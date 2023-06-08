@@ -1,7 +1,3 @@
-# IU - International University of Applied Science
-# Machine Learning - Supervised Learning
-# Course Code: DLBDSMLSL01
-
 # Naive Bayes
 
 # %% load packages
