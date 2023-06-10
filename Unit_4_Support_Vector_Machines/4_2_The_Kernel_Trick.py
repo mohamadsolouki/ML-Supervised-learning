@@ -1,7 +1,3 @@
-# IU - International University of Applied Science
-# Machine Learning - Supervised Learning
-# Course Code: DLBDSMLSL01
-
 # The Kernel Trick
 
 # %% load packages
@@ -35,3 +31,4 @@ print(confusion_matrix(y_test, y_pred))
 # %% print accuracy
 accuracy_score(y_test, y_pred)
 # console output: 0.9649122807017544
+# %%
