@@ -1,7 +1,3 @@
-# IU - International University of Applied Science
-# Machine Learning - Supervised Learning
-# Course Code: DLBDSMLSL01
-
 # Random Forest
 
 # %% load packages
